@@ -8,7 +8,7 @@ A conversational chatbot that answers questions from CSV or Excel FAQ files. It 
 
 - **Upload CSV or Excel** files containing question-answer pairs  
 - **Semantic search** on FAQs using embeddings  
-- **Human-readable answers** with bullet points if multiple points exist  
+- **Human-readable answers** 
 - **Interactive web interface** powered by Gradio  
 
 ---
