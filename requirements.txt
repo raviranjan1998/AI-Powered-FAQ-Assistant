@@ -1,0 +1,7 @@
+gradio==3.41.2  # for interactive web interface
+langchain-google-genai  # for Google gemini AI models
+langchain-huggingface # HuggingFace embeddings
+langchain-community  #LangChain community package
+faiss-cpu  # similarity search of embeddings
+openpyxl  # for excel
+sentence-transformers  #semantic similarity search
