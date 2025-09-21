@@ -30,10 +30,10 @@ A conversational chatbot that answers questions from CSV or Excel FAQ files. It 
 ## Usage
   - Run in Google Colab or Jupyter Notebook
   - Open the notebook .ipynb file.
-  - Run all cells sequentially.
+  - Run all cells sequentially and in Set up Google API Key cell pass your Google API Key.
   - Upload your CSV or Excel FAQ file.
   - Type your question in the input box.
 
-*_Make sure your environment supports Gradio._*
+*_Make sure your environment supports Gradio and have your Google API Key._*
 
 
